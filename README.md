@@ -2,7 +2,7 @@
 <a href="https://github.com/MicroFinanace"><img src="./f0-head.svg" width="100%" alt="Featured work at Quantleaf" /></a>
 <details open><summary><img src="./f-aick.svg" width="91%" alt="AI Code Knowledgebase" /></summary><img src="./f-aick-body.svg" width="100%" alt="AI Code Knowledgebase details" /></details>
 <details><summary><img src="./f-finni.svg" width="91%" alt="Finni" /></summary><img src="./f-finni-body.svg" width="100%" alt="Finni details" /></details>
-<details><summary><img src="./f-spend.svg" width="91%" alt="Smart Spend" /></summary><img src="./f-spend-body.svg" width="100%" alt="Smart Spend details" /></details>
+
 <details><summary><img src="./f-npc.svg" width="91%" alt="AI NPC Gaming" /></summary><img src="./f-npc-body.svg" width="100%" alt="AI NPC Gaming details" /></details>
 <details><summary><img src="./f-car.svg" width="91%" alt="Car Buying App" /></summary><img src="./f-car-body.svg" width="100%" alt="Car Buying App details" /></details>
 <details><summary><img src="./f-poly.svg" width="91%" alt="PolyCloud" /></summary><a href="https://github.com/MicroFinanace/PolyCloud"><img src="./f-poly-body.svg" width="100%" alt="PolyCloud details" /></a></details>
